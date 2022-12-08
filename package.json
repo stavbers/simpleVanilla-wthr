@@ -1,0 +1,22 @@
+{
+  "name": "wthr_karlv",
+  "version": "1.0.0",
+  "description": "simple weather with vanilla js and react js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stavbers/simpleVanilla-wthr.git"
+  },
+  "author": "stavbers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stavbers/simpleVanilla-wthr/issues"
+  },
+  "homepage": "https://github.com/stavbers/simpleVanilla-wthr#readme",
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
